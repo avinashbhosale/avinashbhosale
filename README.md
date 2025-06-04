@@ -20,7 +20,7 @@ I'm a **Senior QA** Engineer with around 14+ years of experience. I ensure softw
 - Version Control: Git, GitHub, Bitbucket
 
 ##
-![Avinash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=avinashbhosale&show_icons=true&theme=radical)
+[![Avinash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=avinashbhosale&show_icons=true&theme=radical)
 
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinashbhosale&layout=compact&theme=dark)](https://github.com/avinashbhosale)
